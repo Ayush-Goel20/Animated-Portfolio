@@ -9,12 +9,12 @@ A fully responsive and modern animated portfolio built with **React** and **Vite
 - 🖼️ Projects Showcase Section
 - 📧 Contact Form with Validation
 - 🢁 About Me Section with Skills
-- 🌙 Dark Mode Support (optional if added)
+- 🌙 Dark Mode Support 
 - ⚡ Built with React + Vite for fast performance
 
 ## 📸 Demo
 
-Live Website: [https://your-username.vercel.app](https://your-username.vercel.app)
+Live Website: [https://animated-portfolio-two-murex.vercel.app/](https://animated-portfolio-two-murex.vercel.app/)
 
 ## 🛠️ Tech Stack
 
@@ -54,6 +54,15 @@ npm run dev
 
 Deployed using [Vercel](https://vercel.com) — push to your main branch and Vercel auto-deploys.
 
+## 🖼️ Screenshots
+
+### 💻 Desktop View
+
+![Desktop Screenshot](./images/homepage.png)
+
+### 📱 Mobile View
+
+![Mobile Screenshot](./images/mobile.jpg)
 ## 🙌 Acknowledgements
 
 Thanks to open-source tools and inspirations from modern developer portfolios.
@@ -68,4 +77,5 @@ If you'd like to connect:
 ---
 
 ⭐️ If you like this project, feel free to **star** it and follow for more updates!
+
 
