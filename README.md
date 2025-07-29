@@ -1,11 +1,71 @@
+# 🌐 Animated Portfolio Website
 
--
-## Introduction: 
+A fully responsive and modern animated portfolio built with **React** and **Vite**, designed to showcase personal projects, skills, and experience in an elegant and engaging way.
 
-#### 🎥 Create the Ultimate Portfolio Website with Just HTML,CSS and JavaSctipt! 💻
+## 🚀 Features
 
-#### Want to design a stunning portfolio website that’s responsive, modern, and minimalist? In this step-by-step tutorial, we’ll use only HTML and CSS to craft a visually appealing site that highlights your skills, projects, and creativity. 🌟
+- 🎨 Smooth Animations & Transitions
+- 📱 Fully Responsive (Desktop, Tablet & Mobile)
+- 🖼️ Projects Showcase Section
+- 📧 Contact Form with Validation
+- 🢁 About Me Section with Skills
+- 🌙 Dark Mode Support (optional if added)
+- ⚡ Built with React + Vite for fast performance
 
-#### From building the perfect navbar and styling a sleek header to creating a gallery for your work and adding smooth animations and hover effects, this video covers it all! Whether you’re a beginner or looking to sharpen your design skills, we’ll help you master flexbox, grid, and media queries for a truly responsive layout.
+## 📸 Demo
 
+Live Website: [https://your-username.vercel.app](https://your-username.vercel.app)
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React, Vite, TailwindCSS / SCSS / CSS3
+- **Animations:** Framer Motion / AOS (Animate on Scroll)
+- **Deployment:** Vercel / Netlify / GitHub Pages
+
+## 📂 Folder Structure
+
+```
+📁 src/
+ ├📁 assets/           # Images & media
+ ├📁 components/       # Reusable UI components
+ ├📁 pages/            # Sections like About, Projects, Contact
+ ├📁 styles/           # CSS or Tailwind config
+ ├📄 App.jsx           # Main app file
+ └📄 main.jsx          # Entry point
+```
+
+## ⚙️ Installation & Running Locally
+
+```bash
+# Clone the repo
+git clone https://github.com/Ayush-Goel20/Animated-Portfolio.git
+
+# Navigate into the folder
+cd Animated-Portfolio
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm run dev
+```
+
+## 📦 Deployment
+
+Deployed using [Vercel](https://vercel.com) — push to your main branch and Vercel auto-deploys.
+
+## 🙌 Acknowledgements
+
+Thanks to open-source tools and inspirations from modern developer portfolios.
+
+## 📧 Contact
+
+If you'd like to connect:
+
+- 📧 [ayushgoel544@gmail.com](mailto\:ayushgoel544@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ayush-goel-5b54a018a)
+
+---
+
+⭐️ If you like this project, feel free to **star** it and follow for more updates!
 
