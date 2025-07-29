@@ -61,8 +61,9 @@ Deployed using [Vercel](https://vercel.com) — push to your main branch and Ver
 ![Desktop Screenshot](./images/homepage.png)
 
 ### 📱 Mobile View
+<img src="./images/mobile.jpg" alt="Mobile Screenshot" height="400"/>
 
-![Mobile Screenshot](./images/mobile.jpg)
+
 ## 🙌 Acknowledgements
 
 Thanks to open-source tools and inspirations from modern developer portfolios.
